@@ -1,0 +1,7 @@
+**/.eslint*
+**/node_modules
+**/bower_components
+**/lib
+**/docs
+**/webpack.config.js
+**/bundle.js
